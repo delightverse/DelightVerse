@@ -5,7 +5,7 @@
 I'm a software and API security enthusiast with a keen interest in quality assurance. I thrive on tackling challenging problems, connecting with people, and continuously learning to push the boundaries of what's possible.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+
 
 My journey in computer science has led me to develop interest in different areas of IT: Cybersecurity, Manual and Automation Testing, API Security, and a few more.
 
@@ -21,7 +21,7 @@ My journey in computer science has led me to develop interest in different areas
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -44,13 +44,12 @@ My journey in computer science has led me to develop interest in different areas
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
 
 ## Projects
