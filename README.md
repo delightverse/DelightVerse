@@ -18,8 +18,11 @@ My journey in computer science has led me to develop interest in different areas
 | Project Management and collarboration (Jira)       | <a href="https://google.com"></a>|
 | Virtualization and Containerization (VMWarwe, Virtualbox, Docker)     | <a href="https://google.com"></a>|
 
+## Projects
+- <a href="https://github.com/delightverse/Password-Generator">Password Generator</a>
 
-## Tools
+
+## Technologies
 
 
 <!-- ### Network
@@ -51,5 +54,3 @@ My journey in computer science has led me to develop interest in different areas
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
 
-## Projects
-- <a href="">Password Generator</a>
