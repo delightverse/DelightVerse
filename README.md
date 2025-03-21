@@ -1,4 +1,4 @@
-# Hello, I'm Ubah Delight Godson Okechukwu
+# Hi, I'm Ubah Delight Godson Okechukwu!
 <a href="www.linkedin.com/in/ubah-delight-godson-okechukwu-79689b1a6"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@delight.verse01"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
