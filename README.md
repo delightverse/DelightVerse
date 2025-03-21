@@ -14,10 +14,10 @@ My journey in computer science has led me to develop interest in different areas
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Computer Operations (Linux and Windows)   | <a href="https://google.com">Detection Lab</a>|
-| Programming (Python, Powershell, Bash) | <a href="https://google.com">Detection Lab</a>|
-| Project Management and collarboration (Jira)       | SOC Automation Lab|
-| Virtualization and Containerization (VMWarwe, Virtualbox, Docker)     | SOC Automation Lab|
+| Computer Operations (Linux and Windows)   | <a href="https://google.com"></a>|
+| Programming (Python, Powershell, Bash) | <a href="https://google.com"></a>|
+| Project Management and collarboration (Jira)       | <a href="https://google.com"></a>|
+| Virtualization and Containerization (VMWarwe, Virtualbox, Docker)     | <a href="https://google.com"></a>|
 
 
 ## Tools
