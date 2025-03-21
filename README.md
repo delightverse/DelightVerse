@@ -12,7 +12,7 @@ My journey in computer science has led me to develop interest in different areas
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         |         |
 |-----------------------------------------------|----------------------------|
 | Computer Operations (Linux and Windows)   | <a href="https://google.com"></a>|
 | Programming (Python, Powershell, Bash) | <a href="https://google.com"></a>|
