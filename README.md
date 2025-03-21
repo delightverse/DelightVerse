@@ -18,8 +18,6 @@ My journey in computer science has led me to develop interest in different areas
 | Project Management and collarboration (Jira)       | <a href="https://google.com"></a>|
 | Virtualization and Containerization (VMWarwe, Virtualbox, Docker)     | <a href="https://google.com"></a>|
 
-## Projects
-
 
 ## Tools
 
@@ -54,5 +52,4 @@ My journey in computer science has led me to develop interest in different areas
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="">Password Generator</a>
