@@ -10,7 +10,6 @@ I'm a software and API security enthusiast with a keen interest in quality assur
 My journey in computer science has led me to develop interest in different areas of IT: Cybersecurity, Manual and Automation Testing, API Security, and a few more.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         |         |
 |-----------------------------------------------|----------------------------|
@@ -19,11 +18,13 @@ My journey in computer science has led me to develop interest in different areas
 | Project Management and collarboration (Jira)       | <a href="https://google.com"></a>|
 | Virtualization and Containerization (VMWarwe, Virtualbox, Docker)     | <a href="https://google.com"></a>|
 
+## Projects
+
 
 ## Tools
 
 
-### Network
+<!-- ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -41,7 +42,7 @@ My journey in computer science has led me to develop interest in different areas
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+</div> -->
 
 ## Certifications
 <div>
