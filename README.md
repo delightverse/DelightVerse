@@ -108,6 +108,6 @@ A local dashboard for managing, evaluating, and generating strong passwords — 
 
 <div align="center">
 
-*If you find my work interesting, drop a ⭐ on a repo or connect on LinkedIn. Always happy to talk cloud, infrastructure, and open source.*
+*If you find my work interesting, drop a ⭐ on a repo or connect on LinkedIn. Always happy to talk DevOps, cloud, infrastructure, and open source.*
 
 </div>
